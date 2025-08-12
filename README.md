@@ -1,7 +1,7 @@
 **Dolendo, Jericho Paolo T.**<br>
 **Mastering Methods and Encapsulation**<br>
 <br>
-**Designing Methods**
+**Designing Methods**<br>
 ![img.png](img.png)
 <br>
 **Passing Parameters**<br>
